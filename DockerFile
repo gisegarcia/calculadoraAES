@@ -1,0 +1,6 @@
+FROM openjdk:8-jdk-alpine
+MAINTAINER Gisella Garcia - garciar-g@javeriana.edu.co
+ENV WORKSPACE /opt
+WORKDIR ${WORKSPACE}
+COPY target/calculadora.jar .
+ENTRYPOINT java -jar calculadora.jar
