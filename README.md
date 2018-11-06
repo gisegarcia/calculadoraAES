@@ -1,5 +1,5 @@
 # calculadoraAES
-Calculadora con peraciones basicas
+Calculadora con peraciones basicas (+, -, *, /)
 
 Webservices calculadora con imagen docker 
 
