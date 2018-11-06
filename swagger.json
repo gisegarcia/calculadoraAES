@@ -31,7 +31,7 @@
     "application/json"
   ],
   "paths": {
-    "/services/calculator/v1/operations": {
+    "/services/calculadoraAES/v1/": {
       "post": {
         "tags": [
           "calculator-REST"
